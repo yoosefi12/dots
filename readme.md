@@ -1,3 +1,6 @@
+# Dots 
+an experimental game in c lang!
+
 ### server
         $ make server
 
