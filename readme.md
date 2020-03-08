@@ -1,5 +1,5 @@
 # Dots 
-an experimental game in c lang!
+an experimental game in c lang! (still under development)
 
 ### server
         $ make server
